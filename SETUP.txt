@@ -1,0 +1,1 @@
+Change IP address in /home/pi/projekt/picam_frontend/src/config.json to webserver IP address
