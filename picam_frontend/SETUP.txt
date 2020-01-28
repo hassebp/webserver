@@ -1,0 +1,4 @@
+Remember to change ip addresses to localhost ip address
+
+Troubleshooting: 
+missing logo and favicon file might cause some trouble regarding references in the script
